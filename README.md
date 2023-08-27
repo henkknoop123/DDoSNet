@@ -1,6 +1,6 @@
 # DDoSNet
 Creds to HyukIsBack
-
+USE ON WINDOWS!!!
 
 DDoS Script (DDoS Panel) with Multiple Bypass
 ( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )
